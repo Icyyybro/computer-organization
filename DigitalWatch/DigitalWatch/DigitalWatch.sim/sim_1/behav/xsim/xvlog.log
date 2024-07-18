@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.srcs/sources_1/new/DigitalWatch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DigitalWatch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.srcs/sim_1/new/DigitalWatch_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DigitalWatch_tb

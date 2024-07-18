@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_5_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_5_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_6_64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_6_64
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/encoder_14_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder_14_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module id
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/inst_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/singleCycle_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module singleCycle_cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/sopc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sopc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sim_1/new/sopc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sopc_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CODE/computer_organization/project_7/project_7/project_7.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

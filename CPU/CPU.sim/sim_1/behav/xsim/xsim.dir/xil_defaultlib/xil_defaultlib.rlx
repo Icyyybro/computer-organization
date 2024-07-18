@@ -1,0 +1,20 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/CODE/computer_organization/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sim_1/new/alu_tb.v,1700314196,verilog,,,,alu_tb,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sim_1/new/id_tb.v,1699957106,verilog,,,,id_tb,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sim_1/new/inst_fetch_tb.v,1699953042,verilog,,,,inst_fetch_tb,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sim_1/new/sopc_tb.v,1700550253,verilog,,,,sopc_tb,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/alu.v,1699952851,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/decoder_5_32.v,,alu,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/decoder_5_32.v,1699952781,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/decoder_6_64.v,,decoder_5_32,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/decoder_6_64.v,1699952797,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/encoder_16_4.v,,decoder_6_64,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/encoder_16_4.v,1699952762,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/id.v,,encoder_16_4,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/id.v,1699952819,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/inst_rom.v,,id,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/inst_fetch.v,1699952670,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/inst_rom.v,,inst_fetch,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/inst_rom.v,1699952651,verilog,,D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sources_1/new/regfile.v,,inst_rom,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/singleCycle_cpu.v,1700748517,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/sopc.v,,singleCycle_cpu,,,,,,,,
+D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/sopc.v,1700554002,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sim_1/new/sopc_tb.v,,sopc,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sources_1/new/PC.v,1698582737,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/alu.v,,PC,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sources_1/new/regfile.v,1700660586,verilog,,D:/CODE/computer_organization/CPU/CPU.srcs/sources_1/new/singleCycle_cpu.v,,regfile,,,,,,,,

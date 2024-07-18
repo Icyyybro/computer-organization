@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sim_1/new/PC_tb.v,1698483662,verilog,,,,PC_tb,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sim_1/new/regfile_tb.v,1698481235,verilog,,,,regfile_tb,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sources_1/new/PC.v,1698582737,verilog,,D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sim_1/new/PC_tb.v,,PC,,,,,,,,
+D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sources_1/new/regfile.v,1698477719,verilog,,D:/CODE/computer_organization/Third_Experiment/Third_Experiment.srcs/sim_1/new/regfile_tb.v,,regfile,,,,,,,,

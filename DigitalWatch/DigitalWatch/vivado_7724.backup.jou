@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Jan  4 04:17:21 2023
+# Process ID: 7724
+# Current directory: C:/Users/Meng/Desktop/temp/JizuData/DigitalWatch
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8048 C:\Users\Meng\Desktop\temp\JizuData\DigitalWatch\DigitalWatch.xpr
+# Log file: C:/Users/Meng/Desktop/temp/JizuData/DigitalWatch/vivado.log
+# Journal file: C:/Users/Meng/Desktop/temp/JizuData/DigitalWatch\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Meng/Desktop/temp/JizuData/DigitalWatch/DigitalWatch.xpr
+update_compile_order -fileset sources_1
+launch_runs synth_1
+wait_on_run synth_1
+launch_simulation
+source DigitalWatch_tb.tcl
+current_wave_config {Untitled 1}
+add_wave {{/DigitalWatch_tb/DigitalWatch0}} 
+close_sim
+launch_simulation
+source DigitalWatch_tb.tcl
+close_sim

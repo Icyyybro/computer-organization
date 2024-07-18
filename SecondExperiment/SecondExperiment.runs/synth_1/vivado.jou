@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Oct 20 15:36:27 2023
+# Process ID: 19476
+# Current directory: D:/CODE/computer_organization/SecondExperiment/SecondExperiment.runs/synth_1
+# Command line: vivado.exe -log dff.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dff.tcl
+# Log file: D:/CODE/computer_organization/SecondExperiment/SecondExperiment.runs/synth_1/dff.vds
+# Journal file: D:/CODE/computer_organization/SecondExperiment/SecondExperiment.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source dff.tcl -notrace

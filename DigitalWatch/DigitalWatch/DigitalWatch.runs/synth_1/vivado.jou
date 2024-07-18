@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Dec 30 13:38:34 2023
+# Process ID: 9860
+# Current directory: D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.runs/synth_1
+# Command line: vivado.exe -log DigitalWatch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DigitalWatch.tcl
+# Log file: D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.runs/synth_1/DigitalWatch.vds
+# Journal file: D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source DigitalWatch.tcl -notrace

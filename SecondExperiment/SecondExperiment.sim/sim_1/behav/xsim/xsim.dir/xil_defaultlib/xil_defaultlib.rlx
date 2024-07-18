@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_asyn_tb.v,1697788047,verilog,,,,dff_asyn_tb,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_en_tb.v,1697526868,verilog,,,,dff_en_tb,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_syn_tb.v,1697788104,verilog,,,,dff_syn_tb,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_tb.v,1697524263,verilog,,,,dff_tb,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sources_1/new/dff.v,1697523664,verilog,,D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_tb.v,,dff,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sources_1/new/dff_asyn.v,1697524999,verilog,,D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_asyn_tb.v,,dff_asyn,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sources_1/new/dff_en.v,1697526319,verilog,,D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_en_tb.v,,dff_en,,,,,,,,
+D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sources_1/new/dff_syn.v,1697525761,verilog,,D:/CODE/computer_organization/SecondExperiment/SecondExperiment.srcs/sim_1/new/dff_syn_tb.v,,dff_syn,,,,,,,,

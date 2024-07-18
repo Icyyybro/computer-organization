@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Dec 28 15:04:57 2023
+# Process ID: 15416
+# Current directory: D:/CODE/computer_organization/DigitalWatch/DigitalWatch
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15320 D:\CODE\computer_organization\DigitalWatch\DigitalWatch\DigitalWatch.xpr
+# Log file: D:/CODE/computer_organization/DigitalWatch/DigitalWatch/vivado.log
+# Journal file: D:/CODE/computer_organization/DigitalWatch/DigitalWatch\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project -part xc7k70tfbv676-1 D:/CODE/computer_organization/DigitalWatch/DigitalWatch/DigitalWatch.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source DigitalWatch_tb.tcl
+relaunch_sim
+relaunch_sim
+reset_run synth_1
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 10
+wait_on_run synth_1
+launch_runs impl_1 -jobs 10
+wait_on_run impl_1
+open_run impl_1
+open_run synth_1 -name synth_1
+close_design
+synth_design -rtl -name rtl_1
+set_property elab_link_dcps false [current_fileset]
+close_design
+close_design
+synth_design -rtl -name rtl_1 -rtl_skip_ip
+close_design
+synth_design -rtl -name rtl_1 -rtl_skip_ip
+close_sim

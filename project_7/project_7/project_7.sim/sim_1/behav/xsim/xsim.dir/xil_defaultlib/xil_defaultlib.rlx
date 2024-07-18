@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/CODE/computer_organization/project_7/project_7/project_7.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sim_1/new/sopc_tb.v,1700723187,verilog,,,,sopc_tb,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/alu.v,1700294918,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_5_32.v,,alu,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_5_32.v,1699511698,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_6_64.v,,decoder_5_32,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/decoder_6_64.v,1699511703,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/encoder_14_4.v,,decoder_6_64,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/encoder_14_4.v,1699515274,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/id.v,,encoder_14_4,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/id.v,1699944688,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/inst_rom.v,,id,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/inst_rom.v,1699943462,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/pc.v,,inst_rom,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/pc.v,1698909576,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/regfile.v,,pc,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/imports/CPU/regfile.v,1700723289,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/singleCycle_cpu.v,,regfile,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/singleCycle_cpu.v,1700722247,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/sopc.v,,singleCycle_cpu,,,,,,,,
+D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sources_1/new/sopc.v,1700722507,verilog,,D:/CODE/computer_organization/project_7/project_7/project_7.srcs/sim_1/new/sopc_tb.v,,sopc,,,,,,,,

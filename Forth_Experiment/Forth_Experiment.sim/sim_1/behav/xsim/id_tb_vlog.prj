@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "D:/CODE/computer_organization/Forth_Experiment/Forth_Experiment.srcs/sources_1/new/defines.v" --include "../../../../Forth_Experiment.srcs/sources_1/new" \
+"../../../../Forth_Experiment.srcs/sources_1/new/decoder_6_64.v" \
+"../../../../Forth_Experiment.srcs/sources_1/new/encoder_16_4.v" \
+"../../../../Forth_Experiment.srcs/sources_1/new/id.v" \
+"../../../../Forth_Experiment.srcs/sim_1/new/id_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
